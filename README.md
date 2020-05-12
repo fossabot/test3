@@ -1,3 +1,5 @@
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fvalih2004%2Ftest3.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fvalih2004%2Ftest3?ref=badge_shield)
+
 **_This project has moved to https://gitlab.com/eidheim/Simple-Web-Server._**
 
 Simple-Web-Server
@@ -55,3 +57,7 @@ Run the server and client examples: `./build/https_examples`
 
 Direct your favorite browser to for instance https://localhost:8080/
 
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fvalih2004%2Ftest3.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fvalih2004%2Ftest3?ref=badge_large)
